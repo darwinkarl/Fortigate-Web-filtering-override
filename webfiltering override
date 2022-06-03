@@ -1,0 +1,615 @@
+Fortigate Webfiltering Overide
+//add custom category and add specific sites//
+
+config webfilter ftgd-local-rating
+edit www.yidio.com
+set rating 142
+next
+edit genflix.co.id
+set rating 142
+next
+edit tubitv.com
+edit www.hbogoasia.ph
+edit www.crunchyroll.com
+edit www.yidio.com
+edit www.vidio.com
+edit www.viki.com
+edit hooq.tv
+edit www.iwanttfc.com
+edit web.vivamax.net
+edit pirate-bay-proxy.org
+
+FREE MOVIE STREAMING SITES
+
+edit azm.to
+edit www2.solarmovie.to/solar.html
+edit gostream.site
+edit 123moviesgoto.com
+edit 123moviesgo.club
+edit www.amazon.com/adlp/imdbtv-about
+edit www.peacocktv.com
+edit moviestars.to
+edit streamm4u.com
+edit moviesjoy.to
+edit www.vudu.com
+edit spacemov.ws
+edit www.crackle.com
+edit www.xumo.tv/channels
+edit flixtor.to/home
+edit w.yesmovies123.me
+edit www.kanopy.com
+edit ilmrise.com
+edit fmovies.to
+edit 123chill.to
+edit www.primewire.ag
+edit www.popcornflix.com
+edit www.streamlord.com
+edit archive.org/details/movies
+edit vumoo.to
+edit putlocker-is.org
+edit www.yidio.com
+edit mybundle.tv/discover/app/snagfilms-watch-free-movies
+edit vexmovies.org
+edit therokuchannel.roku.com
+edit pluto.tv
+edit www.bouncetv.com
+edit www.primewire.ag
+edit yesmovies.ag
+edit putlocker.buzz
+edit tinyzonetv.to
+edit afdah.info
+edit www.putlockers.cr
+edit 123-movies.buzz
+edit vumoo.to
+edit 123movies.net
+edit europixhd.io
+edit www.crackle.com
+edit www.imdb.com
+edit 1movies.life
+edit ww1.1movies.is
+edit www9.0123movies.com
+edit azm.to
+edit www.ctv.ca/movies
+edit www.freeform.com
+edit www.hoopladigital.com
+edit www2.solarmovie.to
+edit www.kanopy.com/en
+edit www.popcornflix.com
+edit archive.org
+edit ww1.m4ufree.tv
+edit gostream.site
+edit cine.to
+edit www.asiancrush.com
+edit cineb.net
+edit streamingsites.com/free-movies-streaming-sites
+edit w7.123movie.cc
+edit 123moviesjr.cc
+edit ww1.putlocker.vip
+edit www.gowatching.com
+edit 123-movies.com
+edit wv1.123-movies.com
+edit www.cinecalidad.to
+edit pelisplus.me
+edit rezka.ag
+edit lookmovie2.to
+edit dosmovies.com
+edit www.moviesjoy.net
+edit sockshares.tv
+edit ymovies.to
+edit ww3.123moviesfull.me
+edit vexmovies.org
+edit www13.123moviesfree.com
+edit hulu.sc
+edit ww1.hulu.sc
+edit ww1.new-primewire.com
+edit ww2.new-primewire.com
+edit moviestars.to
+edit www13.123moviesfree.com
+edit 0123movie.ws
+edit www.streamlikers.com
+edit losmovies.click
+edit losmovies.fun
+edit putlocker.vc
+edit www1.xmovies8.io
+edit w10.hdonline.eu
+edit nyafilmer10.com
+edit www.mxplayer.in
+edit www.sonyliv.com
+edit www.zee5.com/global done
+edit www.airtelxstream.in
+edit www.altbalaji.com
+edit moviespapa.photo
+edit ww1.moviespapa.photo
+edit vtm.be
+edit streamlive.to
+edit www.bbc.co.uk/ done
+
+config webfilter ftgd-local-rating
+edit www.streamdor.com
+set rating 142
+next
+edit www.ziggogo.tv
+set rating 142
+next
+edit moviesfoundonline.com
+set rating 142
+next
+edit freemoviescinema.com
+set rating 142
+next
+edit www.contv.com
+set rating 142
+next
+edit www.hoichoi.tv
+set rating 142
+next
+edit www.sundancetv.com
+set rating 142
+next
+edit antsmovies.com
+set rating 142
+next
+edit bdiptv.stream
+set rating 142
+next
+edit www.svtplay.se
+set rating 142
+next
+edit streamtajm.pro
+set rating 142
+next
+edit movierulz.lv
+set rating 142
+next
+edit bmovies.co
+set rating 142
+next
+edit www.dr.dk
+set rating 142
+next
+edit tamilyogi.cool
+set rating 142
+next
+edit 1tamilgun.com
+set rating 142
+next
+edit tamilhdbox.com
+set rating 142
+next
+edit tamilarasan.cc
+set rating 142
+next
+edit tamilarasan.net
+set rating 142
+next
+edit tamilyogi.best
+set rating 142
+next
+edit gomovies-online.link
+set rating 142
+next
+edit tamilian.net
+set rating 142
+next
+edit www3.123movies.gdn
+set rating 142
+next
+edit www.123-movies.gdn
+set rating 142
+next
+edit bollywoodfilma.monster
+set rating 142
+next
+edit ww12.bollywoodfilma.monster
+set rating 142
+next
+edit gomovies-online.link
+set rating 142
+next
+edit tamilian.net
+set rating 142
+next
+edit ww1.ssrmovies.media
+set rating 142
+next
+edit skymovieshd.uno
+set rating 142
+next
+edit 1jalshamoviez.live
+set rating 142
+next
+edit www.123-movies.gdn
+set rating 142
+next
+edit 9xmovies.land
+set rating 142
+next
+edit 5movies.cloud
+set rating 142
+next
+edit filmy.link
+set rating 142
+next
+edit www.kijk.nl
+set rating 142
+next
+
+FREE SPORTS STREAMING SITES
+edit livetv.sx/enx
+set rating 142
+next
+edit promotions.sportsbetting.ag
+set rating 142
+next
+edit www.vipleague.lc
+set rating 142
+next
+edit www.livesoccertv.com
+set rating 142
+next
+edit www.rojadirecta.me
+set rating 142
+next
+edit www.viprow.net
+set rating 142
+next
+edit hd.worldcupfootball.me
+set rating 142
+next
+edit www.footybite.tv
+set rating 142
+next
+edit cricfree.sc
+set rating 142
+next
+edit en.cricfree.io
+set rating 142
+next
+edit www.sportstream.tv
+set rating 142
+next
+edit pc4.crichd.com
+set rating 142
+next
+edit www.sportrar.tv
+set rating 142
+next
+edit sportlemon.be
+set rating 142
+next
+edit sportmargin.com
+set rating 142
+next
+edit 22bets.me
+set rating 142
+next
+edit streamwoop.live
+set rating 142
+next
+edit carsvin.ru
+set rating 142
+next
+edit ww1.lshunters.tv
+set rating 142
+next
+edit www.vi.nl
+set rating 142
+next
+edit crickfree.be
+set rating 142
+next
+
+SPORTS STREAMING SITES
+edit www.nflgamepass.com
+set rating 142
+next
+edit watch.nba.com
+set rating 142
+next
+edit tv.youtube.com
+set rating 142
+next
+edit welcome.ufcfightpass.com
+set rating 142
+next
+edit plus.espn.com
+set rating 142
+next
+edit www.fite.tv
+set rating 142
+next
+edit secure.motogp.com
+set rating 142
+next
+edit www.sho.com
+set rating 142
+next
+edit www.amazon.com
+set rating 142
+next
+edit www.playsports.be
+set rating 142
+next
+edit www.paramountplus.com
+set rating 142
+next
+edit www.nbcsports.com
+set rating 142
+next
+edit www.mlb.com
+set rating 142
+next
+edit www.skysports.com
+set rating 142
+next
+edit www.dazn.com
+set rating 142
+next
+edit www.sling.com
+set rating 142
+next
+edit www.foxsports.com
+set rating 142
+next
+edit f1tv.formula1.com
+set rating 142
+next
+edit www.directv.com
+set rating 142
+next
+edit www.hulu.com
+set rating 142
+next
+edit www.fubo.tv
+set rating 142
+next
+edit www.nowtv.com
+set rating 142
+next
+edit www.hotstar.com
+set rating 142
+next
+
+TV Show Streaming
+edit www.hulu.com
+set rating 142
+next
+edit www.hotstar.com
+set rating 142
+next
+edit www.stan.com.au
+set rating 142
+next
+edit www.directv.com
+set rating 142
+next
+edit www.hbomax.com
+set rating 142
+next
+edit www.netflix.com
+set rating 142
+next
+edit www.vudu.com
+set rating 142
+next
+edit www.bravotv.com
+set rating 142
+next
+edit www.nowtv.com
+set rating 142
+next
+edit www.fox.com
+set rating 142
+next
+edit www.tlc.com
+set rating 142
+next
+edit www.discoveryplus.com
+set rating 142
+next
+edit www.sho.com
+set rating 142
+next
+edit www.investigationdiscovery.com
+set rating 142
+next
+edit www.epix.com
+set rating 142
+next
+edit www.apple.com
+set rating 142
+next
+edit www.hbo.com
+set rating 142
+next
+edit www.fxnetworks.com
+set rating 142
+next
+edit www.addatimes.com
+set rating 142
+next
+edit play.tv2.dk
+set rating 142
+next
+edit www.hmnow.com
+set rating 142
+next
+edit www.discoveryplus.com
+set rating 142
+next
+edit viaplay.dk
+set rating 142
+next
+edit viaplay.no
+set rating 142
+next
+edit www.nlziet.nl
+set rating 142
+next
+edit www.twitch.tv
+set rating 142
+next
+edit dlive.tv
+set rating 142
+next
+edit www.hltv.org
+set rating 142
+next
+edit www.bigo.tv
+set rating 142
+next
+edit www-origin.afreecatv.com
+set rating 142
+next
+edit www.gosugamers.net
+set rating 142
+next
+
+
+ANIME STREAMING SITES
+edit www10.gogoanime.io
+set rating 142
+next
+edit www.crunchyroll.com
+set rating 142
+next
+edit rezka.ag
+set rating 142
+next
+edit 9anime.to
+set rating 142
+next
+edit www.anime-planet.com
+set rating 142
+next
+edit animeheaven.ru
+set rating 142
+next
+edit animedao.com
+set rating 142
+next
+edit aniwatcher.com
+set rating 142
+next
+edit darkanime.stream
+set rating 142
+next
+edit www.viz.com
+set rating 142
+next
+edit wv1.123-movies.com
+set rating 142
+next
+edit sockshare1.com
+set rating 142
+next
+edit www.asiancrush.com/browse/anime
+set rating 142
+next
+edit 4anime.to
+set rating 142
+next
+edit kissanimefree.to
+set rating 142
+next
+edit nsg.galstepn.click
+set rating 142
+next
+edit www.animebam.se
+set rating 142
+next
+edit animejo.com
+set rating 142
+next
+edit justanimeforum.net
+set rating 142
+next
+edit www.masterani.one
+set rating 142
+next
+edit 123movies.net
+set rating 142
+next
+edit ww22.watchop.io
+set rating 142
+next
+edit fmovies.to
+set rating 142
+next
+edit ryuani.me
+set rating 142
+next
+edit ww.kiss-anime.ws
+set rating 142
+next
+edit putlocker.vc
+set rating 142
+next
+edit www1.gogoanimes.ai
+set rating 142
+next
+edit www1.xmovies8.io
+set rating 142
+next
+
+Essential Application
+edit www.utorrent.com
+set rating 142
+next
+edit jdownloader.org
+set rating 142
+next
+edit www.videolan.org
+set rating 142
+next
+edit ublockorigin.com
+set rating 142
+next
+edit www.downloadhelper.net
+set rating 142
+next
+edit www.spotify.com
+set rating 142
+next
+edit www.apple.com
+set rating 142
+next
+edit refpa576024.top
+set rating 142
+next
+edit www.betus.com.pa
+set rating 142
+next
+edit www.mybookie.ag
+set rating 142
+next
+edit www.bet365.com
+set rating 142
+next
+edit bettingdude.com
+set rating 142
+next
+edit www.bovada.lv
+set rating 142
+next
+edit www.betfair.com
+set rating 142
+next
+edit www.fon.bet
+set rating 142
+next
+edit www.unibet.com
+set rating 142
+next
+edit www.bet-at-home.com
+set rating 142
+next
+edit sports.williamhill.com
+set rating 142
+next
+edit m.skybet.com
+set rating 142
+next
+edit betworld247.com
+set rating 142
+next
